@@ -76,7 +76,7 @@ LEGAL DISCLAIMER
 				<Type>Integer</Type>
 				<RangeEnumeration>1..65534</RangeEnumeration>
 				<Units></Units>
-				<Description><![CDATA[Used as link to associate server Object Instance.]]></Description>
+				<Description><![CDATA[XXX - Used as link to associate server Object Instance.]]></Description>
 			</Item>
 			<Item ID="1">
 				<Name>Lifetime</Name>
